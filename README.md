@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @axmsj
+- 👋 Hi, I’m Armando // @axmsj
 - 👀 I’m interested in Front End.
 - 🌱 I’m currently learning HTML, CSS, JS. 
 - 💞️ I’m looking to collaborate on projects and get my portfolio out there.
