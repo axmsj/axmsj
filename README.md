@@ -1,8 +1,8 @@
 -  Hi, I’m Armando // @axmsj
--  I’m interested in Front End Development.
--  Learned - HTML, CSS , Bootstrap
--  I’m currently learning JavaScript.
--  I’m looking to collaborate on projects and get my portfolio out there.
+-  I’m interested in Fron
+-  Learned - HTML, CSS, Bootstrap, JS
+-  I’m currently learning Java, ReactJS, and NodeJS.
+-  I’m looking to collaborate on projects and get my portfolio out there and securing internships.
 -  How to reach me here! LinkedIn: https://www.linkedin.com/in/armando-gutierrez-931068196/
 
 
