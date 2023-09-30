@@ -2,7 +2,7 @@
 -  I’m interested in Fron
 -  Learned - HTML, CSS, Bootstrap, JS
 -  I’m currently learning Java, ReactJS, and NodeJS.
--  I’m looking to collaborate on projects and get my portfolio out there and securing internships.
+-  I’m looking to collaborate on projects, get my portfolio out there, and secure internships.
 -  How to reach me here! LinkedIn: https://www.linkedin.com/in/armando-gutierrez-931068196/
 
 
