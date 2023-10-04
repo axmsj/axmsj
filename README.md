@@ -1,5 +1,5 @@
 -  Hi, I’m Armando // @axmsj
--  I’m interested in Fron
+-  I’m interested in Front End Development
 -  Learned - HTML, CSS, Bootstrap, JS
 -  I’m currently learning Java, ReactJS, and NodeJS.
 -  I’m looking to collaborate on projects, get my portfolio out there, and secure internships.
