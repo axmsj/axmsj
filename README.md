@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 # 💫 About Me:
 -  Hi, I’m Armando // @axmsj
 -  I’m interested in Full Stack Development and AI.
--  I'm currently working on The Odin Project.
+-  I'm currently working on Full Stack Open.
 -  I’m looking to collaborate on projects, get my portfolio out there, and secure internships.
 -  How to reach me here! LinkedIn: https://www.linkedin.com/in/armgtz/  
 
