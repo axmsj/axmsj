@@ -1,7 +1,7 @@
 
 #  Hello! <img width="20" height="20" alt="waving hi" src="https://github.com/user-attachments/assets/1d9d1b3a-25fa-49de-889f-387decbf683a" />
 
-Hi, I’m Armando, a software engineering student at FGCU.
+Hi, I’m <a href="https://armgtz.com">Armando</a>, a software engineering student at FGCU.
  
 Interested in Full Stack Development and AI, I'm currently working on Full Stack Open.
 
