@@ -1,14 +1,17 @@
 
-<!---
-axmsj/axmsj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-# 💫 About Me:
--  Hi, I’m Armando // @axmsj
--  I’m interested in Full Stack Development and AI.
--  I'm currently working on Full Stack Open.
--  I’m looking to collaborate on projects, get my portfolio out there, and secure internships.
--  How to reach me here! LinkedIn: https://www.linkedin.com/in/armgtz/  
+#  Hello! <img width="20" height="20" alt="waving hi" src="https://github.com/user-attachments/assets/1d9d1b3a-25fa-49de-889f-387decbf683a" />
+
+Hi, I’m Armando, a software engineering student at FGCU.
+ 
+Interested in Full Stack Development and AI, I'm currently working on Full Stack Open.
+
+I’m looking to collaborate on projects, get my portfolio out there, and secure internships.
+
+Personal trainer, helping people transform their bodies and helping them feel healthier, play video games, and staying up to date with software and AI. 
+
+Connect with Me!
+
+<a href="https://linkedin.com/in/armgtz" rel="nofollow"><img alt="LinkedIn" src="https://camo.githubusercontent.com/ceacb597a0f2a4ec96d2e9bb2a0e6f4e4e6de1a1c283ecd1b825ced166da9196/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333045373641382e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d4c696e6b6564496e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&amp;style=for-the-badge&amp;logo=LinkedIn&amp;logoColor=white" style="max-width: 100%;"></a>
 
 
 # 💻 Tech Stack:
